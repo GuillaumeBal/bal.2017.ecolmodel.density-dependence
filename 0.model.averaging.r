@@ -1,6 +1,6 @@
 rm(list = ls())
 
-wd <- "C:/Users/gbal/Desktop/bal.2017.ecolmodel.density.dependence"
+wd <- "C:/Users/gbal/Desktop/bal.2018.ecolmodel.density.dependence"
 setwd(wd)
 
 # install package from local folder, THIS IS NOT AN OFFICIAL R PACKAGE !
