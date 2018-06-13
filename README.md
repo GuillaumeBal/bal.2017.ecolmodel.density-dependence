@@ -1,4 +1,4 @@
-# bal.2018.ecolmodel.density.dependence
+# bal.et.al.2018.ecolmodel.density.dependence
 
 This repository contains data and code used in 
 
